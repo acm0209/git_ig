@@ -3,5 +3,5 @@ DATABASE_CONFIG = {
     'dbname': 'company',
     'user': 'user',
     'password': 'password',
-    'port': 3306
+    'port': 9999
 }
